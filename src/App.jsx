@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-import Home from "./Components/Home.jsx";
+import Home from "./components/Home.jsx";
 
 
 function App() {
