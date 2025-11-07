@@ -1,4 +1,6 @@
 import { useState } from 'react'
+
+import GoogleLoginButton from './components/GoogleLoginButton'
 import Home from './components/Home'
 
 function App() {
@@ -6,6 +8,7 @@ function App() {
 
   return (
     <>
+      <GoogleLoginButton>asd</GoogleLoginButton>
       < Home />
     </>
   )
